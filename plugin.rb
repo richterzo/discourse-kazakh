@@ -4,7 +4,7 @@
 # authors: Terzaghi Riccardo
 # url: https://github.com/richterzo/discourse-kazakh
 
-register_locale("kk", name: "Kazakh", nativeName: "ქართული", fallbackLocale: "en_GB")
+register_locale("kk", name: "Kazakh", nativeName: "қазақ", fallbackLocale: "en_GB")
 
 after_initialize do
     if defined? DiscourseTranslator::Google::SUPPORTED_LANG_MAPPING
