@@ -1,5 +1,5 @@
-# name: discourse-kk--locale
-# about: Adds a new locale for Uzbek
+# name: discourse-kk-locale
+# about: Adds a new locale for Kazakh
 # version: 0.1
 # authors: Terzaghi Riccardo
 # url: https://github.com/richterzo/discourse-kazakh
